@@ -1,0 +1,40 @@
+{
+  "posts": [
+    {
+      "likes": 0,
+      "tweets": 0,
+      "comments": 0,
+      "views": 0,
+      "content": "Getting late aaa really>",
+      "create_timestamp": 1626437795256,
+      "id": 1
+    },
+    {
+      "likes": 0,
+      "tweets": 0,
+      "comments": 0,
+      "views": 0,
+      "content": "OMG!!! aaa",
+      "create_timestamp": 1626437359042,
+      "id": 2
+    },
+    {
+      "likes": 0,
+      "tweets": 0,
+      "comments": 0,
+      "views": 0,
+      "content": "WOW!!!! what a day",
+      "create_timestamp": 1626437413522,
+      "id": 3
+    },
+    {
+      "likes": 0,
+      "tweets": 0,
+      "comments": 0,
+      "views": 0,
+      "content": "Hey",
+      "create_timestamp": 1626437777953,
+      "id": 4
+    }
+  ]
+}
